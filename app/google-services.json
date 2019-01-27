@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "296128460371",
+    "firebase_url": "https://roly-216700.firebaseio.com",
+    "project_id": "roly-216700",
+    "storage_bucket": "roly-216700.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296128460371:android:2cad10f11a91230b",
+        "android_client_info": {
+          "package_name": "com.roly.yazan.rolly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "296128460371-9gshj1n6p73a7hehsjq28p48dt4dh03c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCORJS-rQiiGT9xoV-GUqANwRRh_m0gbpc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
